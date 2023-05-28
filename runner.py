@@ -185,7 +185,7 @@ while True:
             exit()
         if game_active:
             if event.type == pygame.MOUSEBUTTONDOWN:
-                if player_rectangle.collidepoint(event.pos) and player_rectangle.bottom == 300:
+                if player_rectangle.bottom == 300:
                     player_gravity = -20
 
             if event.type == pygame.KEYDOWN:
