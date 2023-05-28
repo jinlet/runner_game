@@ -2,7 +2,7 @@
 
 Runner is a simple game created using the Pygame library. The objective is to control a character and avoid colliding with incoming enemies. The longer you survive, the higher your score.
 
-![Game Screenshot](gameplay.png)
+![Game Screenshot](gameplay.PNG)
 
 ## Table of Contents
 
